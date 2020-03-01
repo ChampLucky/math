@@ -12,7 +12,7 @@ public class Factorial {
 		int n=sc.nextInt();
 		for(int i=1;i<=n;i++)
 		{
-			fact=fact*i;
+			fact=fact*i;//calculating factorial
 		}
 		System.out.println("factorial of "+n+" is : "+fact);
 
